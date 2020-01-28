@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="cvtree-parallelisation-project">CVTree Parallelisation Project</h1>
 <h2 id="introduction-to-cvtree">Introduction to CVTree</h2>
 <p>Composition Vector Tree otherwise known as CVTree is an  alignment-free composition vector (CV) algorithm for phylogenetic analysis of a large dataset of DNA and/or Amino Acids sequences. The overall aim of the program is to create a variable matrix which contains  inferring evolutionary relatedness of microbial organisms. This implementation of CVTree has been implemented using the C++ programming language and works by taking in the input of bacteria genomes which are stored in Microsoft Fast Find files (.ffa). The program then searches through the bacteria to find correlations between the bacteria which is then passed to the program via a command-line argument. The program will then output the correlation to the console so the user can see the results.</p>
